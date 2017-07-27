@@ -90,15 +90,15 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-          <h2 class="text-sm-center text-primary">VISION</h2>
+          <h2 style="color: #713160;" class="text-sm-center">VISION</h2>
           <p class="text-justify my-1">Garantizar el éxito de los eventos que organizan nuestros clientes, no sólo por una gran concurrencia de público, sino también logrando que los participantes queden plenamente satisfechos por haber asistido y la información y los conocimientos que han adquirido.</p>
         </div>
         <div class="col-md-5">
-          <h2 class="text-sm-center text-primary">MISION</h2>
+          <h2 style="color: #713160;" class="text-sm-center">MISION</h2>
           <p class="text-justify my-1">Ser referentes en el mercado de la organización de eventos y la prestación de todo tipo de servicios para la adecuada realización de eventos empresariales, académicos e institucionales, garantizando siempre excelentes resultados para las compañías y organizaciones que los llevan a cabo. </p>
         </div>
         <div class="col-md-3">
-          <h2 class="text-sm-center text-primary">VALORES</h2>
+          <h2 style="color: #713160;" class="text-sm-center">VALORES</h2>
           <p class="text-justify my-1">
           	<ul class="fa-ul">
 			  <li><i class="fa-li fa fa-check-square"></i>Trabajo en equipo</li>
@@ -112,10 +112,11 @@
         </div>
       </div>
     </div>
-  </div>
-  <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
+     <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
       <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
     </div>
+  </div>
+ 
 
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
