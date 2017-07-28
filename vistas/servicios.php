@@ -62,10 +62,6 @@
               <li><a href="nosotros.php">NOSOTROS</a></li>
               <li class="active"><a href="servicios.php">SERVICIOS</a></li>
               <li><a href="contacto.php">CONTACTO</a></li>
-              <!-- <li><a href="#">BRANDS</a></li> -->
-              <!-- <li><a href="#">SALE</a></li> -->
-              <!-- <li><a href="#">BLOG</a></li> -->
-              <!-- <li><a href="#">CONTACT</a></li> -->
           </ul>
           </div>
         </div>
@@ -85,7 +81,99 @@
   </div>
 <div class="contenserv">
 	<h2 class="text-center" style="color: #713160;">Artistas Famosos</h2> <br>
+
+	<div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <img class="imagen" src="../img/cantantes-famosos_384.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Cantantes famosos</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/actor.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Actores famosos</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/humoristas-famosos_384.jpg"
+            class="img-responsive img-rounded">
+            <h3 class="text-center">Humoristas famosos</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/monologo.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Monologiistas famosos</h3>
+          </div>
+        </div>
+      </div>
+    </div>
 </div>
+
+<div class="contenserv2">
+<h2 class="text-center" style="color: #713160;">Músicos y grupos musicales</h2> <br>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <img class="imagen" src="../img/mariachis2.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Mariachis</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/cantaste.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Cantantes</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/orquesta.jpg"
+            class="img-responsive img-rounded">
+            <h3 class="text-center">Orquestas</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/trios5.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Trios</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <div class="contenserv"> <br><br>
+	<h2 class="text-center" style="color: #713160;">Servicios adicionales</h2> <br>
+
+	<div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <img class="imagen" src="../img/carpa.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Alquiler de carpas</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/equipo3.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Equipo de sonido</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/tarimas3.jpg"
+            class="img-responsive img-rounded">
+            <h3 class="text-center">Tarimas</h3>
+          </div>
+          <div class="col-md-3">
+            <img class="imagen" src="../img/meseros.jpg"
+            class="img-responsive">
+            <h3 class="text-center">Meseros</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: center; margin-top: 5%;">
+      <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
+    </div>
+</div>
+
 	
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>

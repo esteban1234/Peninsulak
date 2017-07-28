@@ -31,10 +31,6 @@
                   <a style="color: #b8b8b8 !important;" href="#">
                         <i class="fa fa-comments" aria-hidden="true"></i>ACTIVIDADES</a>
                 </li>
-
-                <!-- <li><button type="btn btn-default navbar-btn">ENG</button></li> -->
-
-                <!-- <li><button type="btn btn-default navbar-btn">USD</button></li> -->
               </ul>
 
           </div>
@@ -62,10 +58,6 @@
               <li><a href="vistas/nosotros.php">NOSOTROS</a></li>
               <li><a href="vistas/servicios.php">SERVICIOS</a></li>
               <li><a href="vistas/contacto.php">CONTACTO</a></li>
-              <!-- <li><a href="#">BRANDS</a></li> -->
-              <!-- <li><a href="#">SALE</a></li> -->
-              <!-- <li><a href="#">BLOG</a></li> -->
-              <!-- <li><a href="#">CONTACT</a></li> -->
           </ul>
           </div>
         </div>
@@ -169,11 +161,6 @@ PERSONALIDADES</h4>
       <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
     </div>
 </article>
-
-
-      
-
-
 
 <?php include 'vistas/pie.php' ?>
 <script src="js/jquery-2.2.3.min.js"></script>

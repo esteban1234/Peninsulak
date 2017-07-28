@@ -30,10 +30,6 @@
                   <a style="color: #b8b8b8 !important;" href="#">
                         <i class="fa fa-comments" aria-hidden="true"></i>ACTIVIDADES</a>
                 </li>
-
-                <!-- <li><button type="btn btn-default navbar-btn">ENG</button></li> -->
-
-                <!-- <li><button type="btn btn-default navbar-btn">USD</button></li> -->
               </ul>
 
           </div>
@@ -61,10 +57,6 @@
               <li class="active"><a href="nosotros.php">NOSOTROS</a></li>
               <li><a href="servicios.php">SERVICIOS</a></li>
               <li><a href="contacto.php">CONTACTO</a></li>
-              <!-- <li><a href="#">BRANDS</a></li> -->
-              <!-- <li><a href="#">SALE</a></li> -->
-              <!-- <li><a href="#">BLOG</a></li> -->
-              <!-- <li><a href="#">CONTACT</a></li> -->
           </ul>
           </div>
         </div>

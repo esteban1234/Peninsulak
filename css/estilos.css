@@ -227,6 +227,26 @@ footer p{
 .contenserv{
   width: 100%;
   overflow: hidden;
-  border: 2px red solid;
+  /*border: 2px red solid;*/
+  padding-bottom: 5%;
+}
+.imagen{
+  /*border: 2px red solid;*/
+  height: 170px;
+  width: 100%;
+}
+.contenserv2{
+  width: 100%;
+  overflow: hidden;
+  /*border: 2px red solid;*/
+  padding: 5% 0% 5% 0%;
+  background-color: #F2F2F2;
+
 }
 /*-----------------contacto-----------------*/
+.contacto1{
+  background-color: #F2F2F2;
+  width: 100%;
+  overflow: hidden;
+  padding: 5% 0% 5% 0%;
+}
