@@ -70,18 +70,18 @@
 
 <article class="contratacion">
   <p>CONTRATACIÓN DE ARTISTAS Y FAMOSOS PARA <br>
-<b style="color: #000;">MARKETING Y EVENTOS</b></p>
+  <b style="color: #000;">MARKETING Y EVENTOS</b></p>
 
-<div style="text-align: center; margin-top: 5%;">
-      <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">¡SOLICITA INFORMACION!</a>
-    </div>
+  <div style="text-align: center; margin-top: 5%;">
+    <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">¡SOLICITA INFORMACION!</a>
+  </div>
 </article>
 
 <article class="contenpuntos">
     <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-xs-12- col-sm-6 col-md-3 new-model-puntos">
             <div style="text-align: center;">
               <span class="fa-stack fa-3x">
                 <i class="fa fa-square-o fa-stack-2x"></i>
@@ -91,7 +91,7 @@
             <h4 class="text-center">Presupuestos INMEDIATOS
 (en menos de 24h)</h4>
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-6 col-md-3 new-model-puntos">
             <div style="text-align: center;">
               <span class="fa-stack fa-3x">
                 <i class="fa fa-square-o fa-stack-2x"></i>
@@ -100,7 +100,8 @@
             </div>
             <h4 class="text-center">Perfiles MEDIÁTICOS y de ALTO NIVEL</h4>
           </div>
-          <div class="col-md-3">
+          <div class="clearfix visible-sm-block"></div>
+          <div class="col-xs-12 col-sm-6 col-md-3 new-model-puntos">
             <div style="text-align: center;">
               <span class="fa-stack fa-3x">
                 <i class="fa fa-square-o fa-stack-2x"></i>
@@ -110,7 +111,8 @@
             <h4 class="text-center">Las mejores marcas
 CONFIAN EN NOSOTROS</h4>
           </div>
-          <div class="col-md-3">
+
+          <div class="col-xs-12 col-sm-6 col-md-3 new-model-puntos">
             <div style="text-align: center;">
               <span class="fa-stack fa-3x">
                 <i class="fa fa-square-o fa-stack-2x"></i>
@@ -130,25 +132,25 @@ PERSONALIDADES</h4>
     <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-6 col-md-3">
             <div style="text-align: center;">
               <img src="img/fiesta.png" alt="">
             </div>
             <h4 class="text-center">Ideas para fiestas</h4>
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-6 col-md-3">
             <div style="text-align: center;">
               <img src="img/famosos.png" alt="">
             </div>
             <h4 class="text-center">Artistas famosos</h4>
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-6 col-md-3">
             <div style="text-align: center;">
               <img src="img/musico.png" alt="">
             </div>
             <h4 class="text-center">Músicos y Bandas</h4>
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-6 col-md-3">
             <div style="text-align: center;">
               <img src="img/teatro.png" alt="">
             </div>
@@ -157,7 +159,7 @@ PERSONALIDADES</h4>
         </div>
       </div>
     </div>
-    <div style="text-align: center; margin-top: 5%;">
+    <div class="btn-contactanos" style="text-align: center; margin-top: 5%;">
       <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
     </div>
 </article>

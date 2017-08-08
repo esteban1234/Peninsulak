@@ -63,55 +63,49 @@
         </div>
         <br>
 
-<div class=" section tit">
-        <div class="container outerpadding">
-<div class="row">
-<h2>Contacta con nosotros si tienes alguna duda.</h2> <br><br>
+<div class="section tit">
+  <div class="container outerpadding">
+    <div class="row">
+    <h2 class="tit-inicial-contacto">Contacta con nosotros si tienes alguna duda.</h2> <br><br>
 
-  <div class="col-lg-3">
-     <div class="panel">
-        <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Horario</strong></div>
-        <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;">     
-   <br>
-        <p class="pull-left">Lunes a Viernes de 9 am a 6 pm<br>
-        </p>
+      <div class="col-sm-6 col-md-6 col-lg-3 bor">
+         <div class="panel">
+            <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Horario</strong></div>
+            <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;"><br>
+              <p class="pull-left">Lunes a Viernes de 9 am a 6 pm<br></p>
+            </div>
+         </div>
       </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-3 bor">
+         <div class="panel">
+            <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Teléfono</strong></div>
+            <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;"><br>
+              <p class="pull-left">Pendiente<br></p>
+            </div>
+         </div>
+      </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-3 bor">
+         <div class="panel">
+            <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Correo</strong></div>
+            <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;"><br>
+              <p class="pull-left">info@peninsulak.com<br></p>
+            </div>
+         </div>
+      </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-3 bor">
+         <div class="panel">
+            <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Dirección</strong></div>
+            <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;"><br>
+              <p class="pull-left">C. 11 #335-A por C. 60 y C. 38. Col. Fracc. del Norte, Mérida, Yucatán. C.P. 97120<br></p>
+            </div>
+         </div>
+      </div>
+
      </div>
   </div>
-  <div class="col-lg-3">
-     <div class="panel">
-        <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Teléfono</strong></div>
-        <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;">  
-         
-   <br>
-        <p class="pull-left">Pendiente<br>
-        </p>
-      </div>
-     </div>
-  </div>
-  <div class="col-lg-3">
-     <div class="panel">
-        <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Correo</strong></div>
-        <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;">
-         
-   <br>
-        <p class="pull-left">info@peninsulak.com<br>
-        </p>
-      </div>
-     </div>
-  </div>
-  <div class="col-lg-3">
-     <div class="panel">
-        <div class="panel-heading" style="background-color:#713160;color:#fff;"><strong>Dirección</strong></div>
-        <div class="panel-body" style="background-color:#000;color:#fff; box-shadow:0 -12px 13px #713160 inset;">       
-   <br>
-        <p class="pull-left">C. 11 #335-A por C. 60 y C. 38. Col. Fracc. del Norte, Mérida, Yucatán. C.P. 97120<br>
-        </p>
-      </div>
-     </div>
-  </div>
- </div>
-</div>
 </div>
  <br><br>
 
@@ -119,23 +113,23 @@
 <div class="container">
 	<div class="row">
       <div class="col-md-12">
-          <form class="form-horizontal" action="" method="post">
+          <form class="form-horizontal" onSubmit="return false">
           <fieldset>
-            <legend style="padding-bottom: 2%;" class="text-center">Escribenos tus comentario, dudas o preguntas, estamos para servirte.</legend> <br>
-    
+            <legend style="padding-bottom: 2%;" class="text-center text-form-contacto">Escribenos tus comentario, dudas o preguntas, estamos para servirte.</legend> <br>
+
             <!-- Name input-->
             <div class="form-group">
               <label class="col-md-3 control-label" for="name">Nombre Completo</label>
               <div class="col-md-9">
-                <input id="name" name="name" type="text" placeholder="Escribenos tu nombre Completo" class="form-control">
+                <input id="txtNOMBRE" name="name" type="text" placeholder="Escribenos tu nombre Completo" class="form-control">
               </div>
             </div>
-    
+
             <!-- Email input-->
             <div class="form-group">
               <label class="col-md-3 control-label" for="email">E-mail</label>
               <div class="col-md-9">
-                <input id="email" name="email" type="text" placeholder="Escribenos tu E-mail Completo" class="form-control">
+                <input id="txtCORREO" name="email" type="text" placeholder="Escribenos tu E-mail Completo" class="form-control">
               </div>
             </div>
 
@@ -143,22 +137,25 @@
             <div class="form-group">
               <label class="col-md-3 control-label" for="name">Teléfono</label>
               <div class="col-md-9">
-                <input id="name" name="name" type="text" placeholder="Escribenos tu Número de Teléfono Completo" class="form-control">
+                <input id="txtTELEFONO" name="name" type="text" placeholder="Escribenos tu Número de Teléfono Completo" class="form-control">
               </div>
             </div>
-    
+
             <!-- Message body -->
             <div class="form-group">
               <label class="col-md-3 control-label" for="message">Comentario</label>
               <div class="col-md-9">
-                <textarea class="form-control" id="message" name="message" placeholder="Escribenos tu mensaje aqui..." rows="5"></textarea>
+                <textarea class="form-control" id="txtCOMENTARIO" name="message" placeholder="Escribenos tu mensaje aqui..." rows="5"></textarea>
               </div>
             </div>
-    
+
             <!-- Form actions -->
-            <div class="form-group">
+            <div class="form-group"><br>
+              <div class="col-xs-12 col-sm-12">
+                <div id="_AJAX_PRE_"></div>
+              </div>
               <div class="col-md-12 text-right">
-                <button type="submit" class="btn btn-danger btn-lg">Enviar</button>
+                <button type="submit" class="btn btn-danger btn-lg" onclick="sendCORREO()">Enviar</button>
               </div>
             </div>
           </fieldset>
@@ -171,7 +168,7 @@
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
-<!-- <script src="../js/menu.js"></script> -->
+<script src="../js/sendCORREO.js"></script>
 
 </body>
 </html>

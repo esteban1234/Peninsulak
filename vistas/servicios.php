@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-	
+
 	 <nav id="navtop">
         <div class="container-fluid">
       <!--header navbar top left -->
@@ -71,8 +71,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="" style="color: #713160;">SERVICIOS</h1> <br>
-          <p class="lead">
+          <h1 class="tit-inicial-ser" style="color: #713160;">SERVICIOS</h1> <br>
+          <p class="lead text-servi-center">
           Bandas, artistas y profesionales del espectáculo para contratar.
           </p>
         </div>
@@ -80,30 +80,26 @@
     </div>
   </div>
 <div class="contenserv">
-	<h2 class="text-center" style="color: #713160;">Artistas Famosos</h2> <br>
+	<h2 class="text-center text-center-newtam" style="color: #713160;">Artistas Famosos</h2> <br>
 
 	<div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
-            <img class="imagen" src="../img/cantantes-famosos_384.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Cantantes famosos</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/cantantes-famosos_384.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Cantantes famosos</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/actor.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Actores famosos</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img  src="../img/actor.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Actores famosos</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/humoristas-famosos_384.jpg"
-            class="img-responsive img-rounded">
-            <h3 class="text-center">Humoristas famosos</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/humoristas-famosos_384.jpg" class="img-responsive img-rounded imagen">
+            <h3 class="text-center text-center-subtit">Humoristas famosos</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/monologo.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Monologiistas famosos</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/monologo.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Monologiistas famosos</h3>
           </div>
         </div>
       </div>
@@ -111,29 +107,25 @@
 </div>
 
 <div class="contenserv2">
-<h2 class="text-center" style="color: #713160;">Músicos y grupos musicales</h2> <br>
+<h2 class="text-center text-center-newtam" style="color: #713160;">Músicos y grupos musicales</h2> <br>
     <div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
-            <img class="imagen" src="../img/mariachis2.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Mariachis</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/mariachis2.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Mariachis</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/cantaste.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Cantantes</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/cantaste.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Cantantes</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/orquesta.jpg"
-            class="img-responsive img-rounded">
-            <h3 class="text-center">Orquestas</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img  src="../img/orquesta.jpg" class="img-responsive img-rounded imagen">
+            <h3 class="text-center text-center-subtit">Orquestas</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/trios5.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Trios</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/trios5.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Trios</h3>
           </div>
         </div>
       </div>
@@ -141,30 +133,27 @@
     </div>
 
     <div class="contenserv"> <br><br>
-	<h2 class="text-center" style="color: #713160;">Servicios adicionales</h2> <br>
+	<h2 class="text-center text-center-newtam" style="color: #713160;">Servicios adicionales</h2> <br>
 
 	<div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-3">
-            <img class="imagen" src="../img/carpa.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Alquiler de carpas</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img src="../img/carpa.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Alquiler de carpas</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/equipo3.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Equipo de sonido</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img  src="../img/equipo3.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Equipo de sonido</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/tarimas3.jpg"
-            class="img-responsive img-rounded">
-            <h3 class="text-center">Tarimas</h3>
+
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img  src="../img/tarimas3.jpg" class="img-responsive img-rounded imagen">
+            <h3 class="text-center text-center-subtit">Tarimas</h3>
           </div>
-          <div class="col-md-3">
-            <img class="imagen" src="../img/meseros.jpg"
-            class="img-responsive">
-            <h3 class="text-center">Meseros</h3>
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+            <img  src="../img/meseros.jpg" class="img-responsive imagen">
+            <h3 class="text-center text-center-subtit">Meseros</h3>
           </div>
         </div>
       </div>
@@ -174,7 +163,7 @@
     </div>
 </div>
 
-	
+
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>

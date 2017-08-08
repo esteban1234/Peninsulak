@@ -66,7 +66,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1 class="" style="color: #713160;">SOBRE GRUPO PENINSULA K</h1> <br>
+          <h1 class="tit-inicial" style="color: #713160;">SOBRE GRUPO PENINSULA K</h1> <br>
           <p class="lead">
           GRUPO PENINSULA K tiene todas las herramientas necesarias para llevar a cabo, con éxito, cualquier tipo de evento. Su equipo profesional, coordina y gestiona cualquier demanda requerida por el cliente, que encontrará el espacio idóneo para su evento. Desde convenciones, congresos, seminarios, consejos de administración, eventos deportivos, eventos de responsabilidad social corporativa (RSC), rodajes, sesiones de fotos e incentivos de empresa, tanto de ámbito nacional como internacional.
           </p>
@@ -108,7 +108,7 @@
       <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
     </div>
   </div>
- 
+
 
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
