@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	
+	<meta name="google-site-verification" content="ZgOmZ_rPDGWx9ub-zpiS9yaJxEu2oCfY6FPkZKBmk_I" />
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<title>GRUPO PENINSULA K</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
